@@ -78,7 +78,9 @@ width:45%;
 margin:2.5%;
 background-color:#f5f5f5;
 color:#bdc3c7;
+opacity: 0.7;
 }
+#gallary li:hover{opacity: 1;}
 #gallary li a p{
 margin:0;
 padding:5%;
@@ -142,6 +144,11 @@ background-image:url('../img/mail.png');
 background-image:url('../img/twitter.png');
 }
 
+.contact-info li.instagram a{
+background-image:url('../img/instagram.png');
+}
+
+
 
 
 
@@ -158,21 +165,21 @@ color:#999;
 
 /* green header */
 header{
-background:#6ab47b;
-border-color:#599a68;}
+background:#021931;
+border-color: #301A02;}
 
 /* logo text */
 h1,h2{color:#fff;}
 
 /* nav background */
 nav{
-background-color:#599a68;}
+background-color: #301A02;}
 
-nav a, nav a:visited{color:#fff;}
+nav a, nav a:visited{color:#ccc;}
 
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-color:#32673f;
+text-decoration: underline;
 }
 
