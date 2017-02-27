@@ -32,12 +32,14 @@ width:100%;}
 text-align:center;
 margin:0;
 }
+
 h1{
 font-family:'Oswald', sans-serif;
 margin:15px 0;
 font-size:1.75em;
 font-weight:normal;
-line-height:0.8em;}
+line-height:0.8em;
+}
 
 h2{
 font-size:0.75em;
