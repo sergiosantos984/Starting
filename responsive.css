@@ -3,12 +3,13 @@
 Two Colum layout 
 ********/
 #primary{
-width:50%;
+width:45%;
 float:left;
-}
+margin:2.5px;}
 #secoundary{
-width:40%;
-float:right;}
+width:45%;
+float:right;
+margin:2.5px;}
 
 /******* 
 3*5=15 (padding its 2.5% we have 3 images... 5% for each one)
